@@ -1,0 +1,73 @@
+.navbar-container {
+  background-color: #00712d;
+}
+.navbar-page-links-item {
+  text-decoration: none;
+  color: white;
+}
+.footer-container {
+  background-color: #00712d;
+  color: white;
+}
+
+.img-about-us {
+  height: 150px;
+  width: 150px;
+  border-radius: 10px;
+}
+
+@media (min-width: 668px) and (max-width: 767.98px) {
+  .content-container .paragraph-container {
+    padding: 0;
+  }
+}
+
+@media (max-width: 640px) {
+  .content-container .paragraph-container {
+    padding: 0 20px;
+  }
+}
+
+@media (max-width: 620px) {
+  .content-container .paragraph-container {
+    padding: 0 40px;
+  }
+}
+
+@media (max-width: 576px) {
+  .content-container .paragraph-container {
+    padding: 0 60px;
+  }
+  .content-container .content-container-img {
+    width: 45%;
+  }
+}
+
+@media (max-width: 520px) {
+  .content-container .paragraph-container {
+    padding: 0 60px;
+  }
+  .content-container .content-container-heading {
+    padding: 0 60px;
+  }
+}
+
+@media (max-width: 410px) {
+  .content-container .paragraph-container {
+    padding: 0 60px;
+  }
+  .content-container .content-container-heading {
+    padding: 0 60px;
+  }
+}
+
+@media (max-width: 400px) {
+  .content-container .content-container-img {
+    width: 50%;
+  }
+}
+
+.footer-container a {
+  color: white;
+  text-decoration: none;
+}

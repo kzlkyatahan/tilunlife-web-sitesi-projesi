@@ -1,0 +1,93 @@
+.navbar-container {
+  background-color: #00712d;
+}
+.navbar-page-links-item {
+  text-decoration: none;
+  color: white;
+}
+.footer-container {
+  background-color: #00712d;
+  color: white;
+}
+
+@media (max-width: 1100px) {
+  .content-container {
+    padding: 20px 45px !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .content-container {
+    padding: 20px 55px !important;
+  }
+}
+
+@media (max-width: 530px) {
+  .content-container iframe {
+    width: 350px !important;
+  }
+}
+
+@media (max-width: 500px) {
+  .content-container iframe {
+    width: 340px !important;
+  }
+}
+
+@media (max-width: 470px) {
+  .content-container iframe {
+    width: 320px !important;
+  }
+}
+
+@media (max-width: 440px) {
+  .content-container iframe {
+    width: 280px !important;
+  }
+}
+
+@media (max-width: 420px) {
+  .content-container iframe {
+    width: 260px !important;
+    height: 300px !important;
+  }
+}
+
+@media (max-width: 392px) {
+  .content-container iframe {
+    width: 250px !important;
+    height: 280px !important;
+  }
+}
+
+@media (max-width: 380px) {
+  .content-container iframe {
+    width: 220px !important;
+    height: 260px !important;
+  }
+}
+
+@media (max-width: 340px) {
+  .content-container iframe {
+    width: 180px !important;
+    height: 200px !important;
+  }
+}
+
+@media (max-width: 300px) {
+  .content-container iframe {
+    width: 150px !important;
+    height: 160px !important;
+  }
+}
+
+@media (max-width: 270px) {
+  .content-container .map-col {
+    display: none;
+  }
+}
+
+.footer-container a {
+  color: white;
+  text-decoration: none;
+}

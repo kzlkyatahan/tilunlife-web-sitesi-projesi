@@ -1,0 +1,16 @@
+.navbar-container {
+  background-color: #00712d;
+}
+.navbar-page-links-item {
+  text-decoration: none;
+  color: white;
+}
+.footer-container {
+  background-color: #00712d;
+  color: white;
+}
+
+.footer-container a {
+  color: white;
+  text-decoration: none;
+}

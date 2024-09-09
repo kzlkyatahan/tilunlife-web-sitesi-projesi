@@ -1,0 +1,20 @@
+.navbar-container {
+  background-color: #00712d;
+}
+.navbar-page-links-item {
+  text-decoration: none;
+  color: white;
+}
+.footer-container {
+  background-color: #00712d;
+  color: white;
+}
+
+.product-page-content-container {
+  height: 450px;
+}
+
+.footer-container a {
+  color: white;
+  text-decoration: none;
+}
