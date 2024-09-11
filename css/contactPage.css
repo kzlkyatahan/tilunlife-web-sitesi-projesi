@@ -10,12 +10,6 @@
   color: white;
 }
 
-@media (max-width: 576px) {
-  .content-container {
-    padding: 20px 55px !important;
-  }
-}
-
 @media (max-width: 530px) {
   .content-container iframe {
     width: 350px !important;
